@@ -1,0 +1,4 @@
+flask
+jieba
+sklearn
+numpy

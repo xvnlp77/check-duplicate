@@ -1,0 +1,1 @@
+docker run -d -p 5001:8088 -v /home/cxh/python/check-duplicate/docker/scripts:/root/check-duplicate/scripts --name check-duplicate check-duplicate:0.0.1 bash /root/check_duplicate/start_server

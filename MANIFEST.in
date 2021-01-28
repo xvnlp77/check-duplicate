@@ -1,0 +1,2 @@
+graft check_duplicate/web/static
+graft check_duplicate/web/templates
